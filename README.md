@@ -415,7 +415,6 @@ This project is for educational and research purposes. NBA statistics are proper
 
 - **NBA.com** for providing comprehensive statistics
 - **nba_api community** for the excellent Python package
-- **Indiana University Bloomington** for academic support
 - Basketball analytics community for inspiration and best practices
 
 ---
@@ -428,16 +427,6 @@ This project is for educational and research purposes. NBA statistics are proper
 4. [National Basketball Association - Wikipedia](https://en.wikipedia.org/wiki/National_Basketball_Association)
 5. [NBA Savant - Advanced Statistics](https://www.nbasavant.com/)
 6. [NBA Visualization Examples - Towards Data Science](https://towardsdatascience.com/10-unique-visualizations-of-the-nba-b981cfdb78bf)
-
----
-
-## Contact
-
-For questions or collaboration opportunities:
-
-- **Team Members:** Saiabhinav Chekka, Dharani Doppalapudi, Srikar Gandhe
-- **Institution:** Indiana University Bloomington
-- **Project Repository:** [Add GitHub link here]
 
 ---
 
