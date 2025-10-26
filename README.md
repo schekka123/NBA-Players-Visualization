@@ -2,9 +2,6 @@
 
 ## Stephen Curry vs Kyrie Irving and LeBron James vs Carmelo Anthony
 
-**Team:** Saiabhinav Chekka, Dharani Doppalapudi, Srikar Gandhe  
-**Institution:** Indiana University Bloomington
-
 ---
 
 ## Abstract
