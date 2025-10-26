@@ -131,6 +131,20 @@ Color-intensity maps showing:
 
 ---
 
+## Example of Visualizations Created
+
+<img width="628" height="449" alt="Screenshot 2025-10-26 at 2 23 58 PM" src="https://github.com/user-attachments/assets/3c17c5ad-a7cc-40ce-9ff0-43f02645c1dc" />
+
+<img width="1241" height="751" alt="Screenshot 2025-10-26 at 2 24 18 PM" src="https://github.com/user-attachments/assets/60938206-2334-494c-8c86-fb698b8c26c5" />
+
+<img width="1190" height="737" alt="Screenshot 2025-10-26 at 2 24 34 PM" src="https://github.com/user-attachments/assets/f90689a1-4b31-4a6e-a5a3-812ae828565b" />
+
+<img width="1268" height="929" alt="Screenshot 2025-10-26 at 2 24 48 PM" src="https://github.com/user-attachments/assets/cf522400-12eb-416e-973a-782ddaeb184b" />
+
+<img width="1508" height="753" alt="Screenshot 2025-10-26 at 2 25 01 PM" src="https://github.com/user-attachments/assets/24b799e9-2906-4965-a79f-2be29c1e713e" />
+
+---
+
 ## Installation
 
 ### Prerequisites
